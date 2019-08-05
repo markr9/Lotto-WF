@@ -1,1 +1,3 @@
 Upload error
+Manually uploaded - due to project having build files.
+May contain unneeded files.
